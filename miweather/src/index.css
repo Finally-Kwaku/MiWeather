@@ -3,7 +3,8 @@ body {
   font-family: 'Roboto', Arial, sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #d5d4d4;
+  background-color: rgba(0, 0, 0, 0.4);
+  background: url('https://source.unsplash.com/1600x900/?sunset');
 }
 
 code {
